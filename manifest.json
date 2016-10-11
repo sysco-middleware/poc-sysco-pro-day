@@ -1,0 +1,12 @@
+{
+  "runtime": {
+    "majorVersion": "8"
+  },
+  "command": "java -jar sysco-pro-day-1.0-SNAPSHOT-fat.jar",
+  "release": {
+    "version": "1.0-SNAPSHOT",
+    "build": "1",
+    "commit": "1A2B345"
+  },
+  "notes": "SYSCO Pro Day App"
+}

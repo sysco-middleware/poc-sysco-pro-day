@@ -2,7 +2,7 @@
   "runtime": {
     "majorVersion": "8"
   },
-  "command": "java -jar sysco-pro-day-1.0-SNAPSHOT-fat.jar",
+  "command": "java -jar sysco-pro-day-1.0-SNAPSHOT-final.jar",
   "release": {
     "version": "1.0-SNAPSHOT",
     "build": "1",
